@@ -11,3 +11,6 @@ ins_Y;
 
 # updated code / no error
 ins_Z_no_error;
+
+# YEEEY!
+ins_MAGIC;
