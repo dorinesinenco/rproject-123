@@ -5,3 +5,6 @@ ins_3;
 
 # updated code
 ins_X;
+
+# updated code
+ins_Y;
